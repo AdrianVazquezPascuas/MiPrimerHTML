@@ -25,3 +25,4 @@ __Este texto aparece en negrita__
 + Segundo elemento
 
 [Enlace a Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
+![Rochy RD](img/maxresdefault.jpg)
