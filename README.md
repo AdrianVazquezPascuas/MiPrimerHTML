@@ -24,5 +24,18 @@ __Este texto aparece en negrita__
 + Tercer formato lista desordenada
 + Segundo elemento
 
+```html
+<html>
+  <head>
+  </head>
+</html>
+```
+
 [Enlace a Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
 ![Rochy RD](img/maxresdefault.jpg)
+
+| Encabezado1 | Encabezado2 | Encabezado 3|
+| ----------- |:----------:| --------:|
+| Item1 | Boligrafos| 20€ |
+| Item2 | Grapadoras| 1000€ |
+| Item3 | lapices| 150€ |
